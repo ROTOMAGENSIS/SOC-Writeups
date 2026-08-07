@@ -2,6 +2,8 @@
 
 > Blue Team Labs Online | BEC | Phishing | Microsoft 365 | Azure Audit Logs
 
+🇫🇷 Français | [🇬🇧 English](./README_EN.md)
+
 ## Résumé exécutif
 
 L’organisation soupçonne un incident impliquant des **virements bancaires non autorisés**, mais apparemment légitimes, depuis le fonds de pension de l'entreprise vers de multiples comptes externes. Le compte du **Chief Financial Officer** constitue une cible sensible car il dispose de l’autorité nécessaire pour autoriser ces transactions.
